@@ -5,10 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int N = scanner.nextInt();
-
 		String[] testCase = new String[N];
-
-
 
 		for(int i = 0; i<testCase.length; i++) {
 			testCase[i] = scanner.next();
